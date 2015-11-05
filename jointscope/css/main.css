@@ -1,0 +1,106 @@
+body{
+	background-color: white;
+	
+
+}
+
+.container{
+	width: 100%;
+
+}
+
+.navbar-inverse {
+    background-color: #ff7f50;
+}
+
+.mwanzo{
+	width: 200px;
+	height: 300px;
+	float: left;
+	margin: 4px auto;
+	padding:2px;
+
+}
+
+/*.list-group{
+	width: 200px;
+	height: 100px;
+	
+}*/
+
+.container2{
+	background-color: blue;
+	width: 800px;
+	height: 600px;
+	margin: 4px auto;
+	padding:4px;
+	float: left;
+}
+
+.mwisho{
+	background-color:red;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 4px auto;
+	padding:2px;
+
+
+}
+
+#carousel-example-generic{
+	width: 1400px;
+	height: 250px;
+		}
+
+/*.row1{
+	background-color: black;
+}*/
+
+
+/*.row{
+	background-color: grey;
+*/
+.container3{
+	background-color: blue;
+	width: 360px;
+	height: 400px;
+	float: left;
+
+}
+
+.container4{
+	background-color: green;
+	width: 360px;
+	height: 400px;
+	float: left;
+	
+}
+.container5{
+	background-color: red;
+	width: 360px;
+	height: 400px;
+	float: left;
+}
+.container6{
+	background-color: lightblue;
+	width: 360px;
+	height: 400px;
+	float: left;
+}
+.container7{
+	background-color: grey;
+	width: 360px;
+	height: 400px;
+	float: left;
+	
+}
+
+
+
+
+
+
+
+
+
